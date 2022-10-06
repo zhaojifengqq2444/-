@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>                
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>教学工具
+    </title>
+  </head>
+  <body style="margin:0">
+    <div style="
+     background-color:#fcfcfc;
+     text-align:center;
+     padding:40px;
+     "
+    >
+      <img alt="怪小孩"src="https://ts1.cn.mm.bing.net/th/id/R-C.78fab9e043c0c55a5925f7b0e93d9612?rik=J%2bN06PuvM68rTQ&riu=http%3a%2f%2fimg.crcz.com%2fallimg%2f201907%2f28%2f1564322512737349.jpg&ehk=BZ4foOvhH1XMzgihnFvxgbqYDEssxu6ZuxC6EU6HVV4%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1"wight="80px"height="80px">
+    </div>
+    <div style="
+     max-widht:760px;
+     margin:30px auto;
+     padding:15px;
+     line-hight:1.7;
+     font-size:16px
+     ">
+      <p>追风赶月莫停留 平芜尽处是春山。</p>
+      <p>非学无以广才，非志无以成学。
+      <p>乌云散去 自当满天繁星。</p>
+      <p>内心丰盈者，独行也如众。不畏山高路远的跋涉者，山川以回馈最奇绝的风景。</p>
+      <p>千淘万漉虽辛苦，吹尽狂沙始到金。</p>
+      <p>桐花万里丹山路，雏凤清于老凤声。</p>
+      <p>智者千虑，必有一失；愚者千虑，必有一得。</p>
+      <p>不戚戚于贫贱，不汲汲于富贵。
+      <p>晴空一鹤排云上，便引诗情到碧霄。
+      <p>黑发不知勤学早，白首方悔读书迟。
+      <p>失之东隅，收之桑榆。
+      <p>青山遮不住，毕竟东流去。
+      <p>血沃中原肥劲草，寒凝大地发春华。
+      <p>莫等闲，白了少年头，空悲切。
+      <p>疾风知劲草，岁寒见后凋。
+       </div>
+    <div style="
+      background-color:#f1f1f1;
+     text-align:center;
+     padding:15px;
+     font-size:5px
+     "
+    >
+     <p>版权所有：怪小孩.com</p>
+     <p>版权联系 请点击</p>
+     <a href="https://guaixiaohai.com">我的网址</p>
+     </div>
+  </body>
+</html>
